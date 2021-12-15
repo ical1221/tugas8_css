@@ -1,0 +1,40 @@
+body {
+    background-image:url("Stupa_Borobudur.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    width:50%;
+    height: 300px;
+    border: 3px solid black;
+    overflow: scroll;
+    background-image: url("avocado.jpg");
+    background-repeat: repeat-y;
+    background-color: white;
+
+}
+p.satu {
+    font:normal normal 700 20px/1 monospace;
+    text-align:right;
+    color:blue;
+    letter-spacing: normal;
+    word-spacing: normal;
+}
+
+p.dua {
+    font:normal normal 700 15px/1 serif;
+    text-align:left;
+    color:green;
+    letter-spacing: normal;
+    word-spacing: normal;
+}
+
+p.tiga {
+    font:normal normal 700 17px/1 sans-serif;
+    text-align:center;
+    color:red;
+    letter-spacing: normal;
+    word-spacing: normal;
+}
